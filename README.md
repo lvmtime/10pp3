@@ -1,4 +1,4 @@
-##10 PRINT in Pyhton 3
+## 10 PRINT in Pyhton 3
 
 This is a pure Python 3 implementation of the 10 PRINT Commodere 64 program.
 
