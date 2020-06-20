@@ -1,6 +1,6 @@
-## 10 PRINT in Pyhton 3
+## 10 PRINT in Pyhton 2 and 3
 
-This is a pure Python 3 implementation of the 10 PRINT Commodere 64 program.
+This is a pure Python implementation of the 10 PRINT Commodere 64 program.
 
 If you never heard of "10 PRINT" [there is a book about it](https://10print.org/) !
 
